@@ -1,12 +1,9 @@
 import React, { useState } from 'react';
 import { 
   Coffee, 
-  MapPin, 
   Clock, 
   ChevronRight,
-  Wifi, 
   Utensils, 
-  Send,
   Leaf,
   Menu as MenuIcon,
   X
